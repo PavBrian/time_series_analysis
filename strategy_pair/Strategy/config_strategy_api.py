@@ -9,8 +9,8 @@ from pybit.unified_trading import HTTP
 # Binance API
 from binance.client import Client
 
-client = Client('ZqMKfAowteSNb4ezHzxbidCOuLboxNXmzgv82221O9XNgnLpCPkJOohc79tpEO09',
-                 'vXTnQF5cWmVwGvScxu7rHLAFIBhfXYtEwxWdoh5k9iw64sobe91nP44s96Ut0ckQ', testnet=False)   
+client = Client('...',
+                 '...', testnet=False)   
 
 # config
 mode = 'test'
